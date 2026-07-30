@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { Building2, Workflow, TrendingUp, Truck } from "lucide-react";
-import { SectionHeader } from "./SectionHeader";
 
 const reasons = [
   {
